@@ -1,0 +1,1 @@
+The project analyzes American housing data publically avaliable, subjecting it to robust data management and data cleaning protocol, analyzing, using regression models and predictive models to test various hypothesis aimed at revealing valuation trend, variable correlation and statistical significance of results.
